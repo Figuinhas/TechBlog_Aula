@@ -98,3 +98,21 @@ h3 {
     background: #CCC;
     padding: 5px;
 }
+#bloco_produtos {
+
+    width: 650px;
+    height: 900px;
+
+}
+.produtos {
+    background: rgb(197, 189, 189);
+    width: 12px;
+    height: 13px;
+    float: left;
+    margin: 9px;
+    padding: 65px;
+}
+#area-menu .jogos a {
+    background-color: #f99200;
+    color: aliceblue;
+}
